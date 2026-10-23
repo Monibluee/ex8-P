@@ -138,4 +138,8 @@ Combina todos os conceitos:
 
 ---
 
+<<<<<<< HEAD
 linha qualquer
+=======
+linha qualquer
+>>>>>>> 47dbc16f6614eb6a8b12426565a7522fe3eabfb2
