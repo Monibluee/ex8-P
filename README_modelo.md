@@ -1,17 +1,17 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome: Julia**  
+- **Número: 22604731**  
+- **Turma: Videojogos**  
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+Adicionei uma branch nova, e mudei o README_modelo
 
 ---
 
 ## Observações (opcional)
 
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
+Acho q o meu problema foi tentar da pull do url do stor, mas funcionou 
