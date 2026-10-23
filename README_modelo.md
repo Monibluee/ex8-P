@@ -27,4 +27,4 @@ Acho q o meu problema foi tentar da pull do url do stor, mas funcionou
 dadwdawdwdawdawda
 
 
-altereii
+altereii! havia errado em colocar o feat8 pro feature_1 mas consegui passar o 1 por main, sorryyyy
