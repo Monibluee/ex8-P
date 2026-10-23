@@ -3,12 +3,16 @@
 - **Nome: Julia**  
 - **Número: 22604731**  
 - **Turma: Videojogos**  
+- **Turma: Videojogs**  
+
 
 ---
 
 ## Alterações realizadas
 
 Adicionei uma branch nova, e mudei o README_modelo
+Fiz commit, criei uma branch dei remote
+
 
 ---
 
