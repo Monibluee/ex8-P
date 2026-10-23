@@ -23,5 +23,8 @@ Acho q o meu problema foi tentar da pull do url do stor, mas funcionou
 
 (Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
 
+
 dadwdawdwdawdawda
 
+
+altereii
