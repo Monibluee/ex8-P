@@ -1,14 +1,14 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome: Julia**  
+- **Número: 22604731**  
+- **Turma: Videojogs**  
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+Fiz commit, criei uma branch dei remote
 
 ---
 
